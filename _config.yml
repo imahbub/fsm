@@ -1,0 +1,11 @@
+# Site settings
+title: উড়ন্ত সেমাইদেবের গীর্জা
+description: সীমাহীন পাস্তার আলোকিত পথ
+
+# Enable the remote theme
+remote_theme: just-the-docs/just-the-docs
+
+# Required Jekyll plugins for GitHub Pages
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
