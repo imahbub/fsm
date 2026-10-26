@@ -9,3 +9,6 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
+
+logo: logo.png
+favicon_ico: favicon.ico
