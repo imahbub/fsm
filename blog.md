@@ -9,7 +9,7 @@ nav_order: -6
   {% for post in site.posts %}
     <li>
       <h2>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       </h2>
     </li>
   {% endfor %}
