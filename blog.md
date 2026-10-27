@@ -15,14 +15,13 @@ nav_order: -6
 
 আপনার লেখাও জমা দিন। এই রিপোটি ফর্ক করে _posts ফোল্ডারে YYYY-MM-DD-Title-optional.md ফাইলটি যোগ করুন। 
 
-```‍‍‍‍‍‍markdown
+```markdown
 ---
 layout: post
-title: আপনার লেখার শিরোনাম
+title: Your post title
 ---
 
-আপনার লেখা এখানে।
-
+Your post
 ‍‍‍```
 
 
