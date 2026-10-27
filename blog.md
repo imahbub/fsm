@@ -21,8 +21,5 @@ layout: post
 title: Your post title
 ---
 
-Your post```
-
-
-Then `git add * && git commit -m "একটি কমিট বার্তা" && git push -u origin branch`
-
+Your post
+```
