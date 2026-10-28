@@ -7,7 +7,7 @@ nav_order: -3
 
 ![Holy Monster boiled for our sins](https://www.spaghettimonster.org/wp-content/uploads/2006/08/Collander.jpg)
 
-বই দুটির বাংলা সংস্করন এর কাজ চলছে। কেউ সাহায্য করতে চাইলে [যোগাযোগ করুন।](/contact)
+বই দুটির বাংলা সংস্করন এর কাজ চলছে। কেউ সাহায্য করতে চাইলে [যোগাযোগ করুন।](/fsm/contact)
 
 # The Gospel of the Flying Spaghetti Monster
 
