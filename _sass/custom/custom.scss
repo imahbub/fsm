@@ -2,7 +2,9 @@
 .fsm-site-hero {
   display: flex;
   align-items: flex-end;
-  min-height: 12rem;
+  width: 100%;
+  box-sizing: border-box;
+  aspect-ratio: 8 / 5;
   margin: 1.25rem 0 2rem;
   padding: clamp(1.25rem, 4vw, 2.5rem);
   overflow: hidden;
@@ -61,18 +63,7 @@
   font-size: 0.9rem;
 }
 
-@media (min-width: 50rem) {
-  .fsm-site-hero {
-    min-height: 18rem;
-  }
-}
-
 @media (max-width: 36rem) {
-  .fsm-site-hero {
-    min-height: 11rem;
-    background-position: 54% center;
-  }
-
   .fsm-calendar-embed iframe {
     height: 68vh;
     min-height: 34rem;
